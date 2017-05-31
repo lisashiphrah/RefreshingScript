@@ -1,0 +1,23 @@
+<html>
+	<head>
+		<meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+	</head>
+	<body>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			setTimeout();
+		})
+
+		setTimeout(function(){
+		   window.location.reload(1);
+		}, 3000);
+	</script>
+		<iframe id="frameNameHere" style="width:80%; height:80%;" src="https://cassialmeida.wordpress.com/">
+		</iframe>
+	</body>
+</html>
